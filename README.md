@@ -239,9 +239,9 @@ pyinstaller sky_editor.spec
 
 ## 联系我们
 
-- **项目主页**: https://github.com/mailguest/sky-editor
-- **问题反馈**: https://github.com/mailguest/sky-editor/issues
-- **讨论交流**: https://github.com/mailguest/sky-editor/discussions
+- **项目主页**: https://github.com/mailguest/sky_editor
+- **问题反馈**: https://github.com/mailguest/sky_editor/issues
+- **讨论交流**: https://github.com/mailguest/sky_editor/discussions
 
 ---
 
