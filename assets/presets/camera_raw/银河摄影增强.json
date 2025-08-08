@@ -1,0 +1,78 @@
+{
+  "name": "银河摄影增强",
+  "basic_adjustments": {
+    "exposure": 0.3,
+    "highlights": -30,
+    "shadows": 40,
+    "whites": 5,
+    "blacks": -20,
+    "contrast": 30,
+    "clarity": 20,
+    "vibrance": 25,
+    "saturation": 15
+  },
+  "color_adjustments": {
+    "temperature": -300,
+    "tint": 0,
+    "hue": 0
+  },
+  "detail_adjustments": {
+    "sharpening": 25,
+    "noise_reduction": 30,
+    "color_noise_reduction": 25
+  },
+  "astro_adjustments": {
+    "star_enhancement": 30,
+    "background_smoothing": 20,
+    "light_pollution_removal": 40,
+    "nebula_enhancement": 25
+  },
+  "hsl_adjustments": {
+    "red": {
+      "hue": 0,
+      "saturation": 20,
+      "luminance": 10
+    },
+    "orange": {
+      "hue": 0,
+      "saturation": 15,
+      "luminance": 5
+    },
+    "yellow": {
+      "hue": 0,
+      "saturation": 10,
+      "luminance": 0
+    },
+    "green": {
+      "hue": 0,
+      "saturation": 5,
+      "luminance": 0
+    },
+    "aqua": {
+      "hue": 0,
+      "saturation": 15,
+      "luminance": 5
+    },
+    "blue": {
+      "hue": 0,
+      "saturation": 30,
+      "luminance": 20
+    },
+    "purple": {
+      "hue": 0,
+      "saturation": 25,
+      "luminance": 15
+    },
+    "magenta": {
+      "hue": 0,
+      "saturation": 20,
+      "luminance": 10
+    }
+  },
+  "tone_curve": {
+    "highlights": 240,
+    "lights": 190,
+    "darks": 60,
+    "shadows": 15
+  }
+}

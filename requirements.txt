@@ -1,0 +1,24 @@
+# Sky Editor 依赖包
+# 核心图像处理
+Pillow>=9.0.0
+
+# 科学计算
+numpy>=1.21.0
+scipy>=1.7.0
+
+# RAW图像处理
+rawpy>=0.17.0
+
+# 计算机视觉和图像处理
+opencv-python>=4.5.0
+scikit-image>=0.19.0
+
+# 绘图和可视化
+matplotlib>=3.5.0
+
+# 打包工具
+pyinstaller>=5.0.0
+
+# 可选依赖（用于特定功能）
+# astropy>=5.0.0  # 天体摄影相关计算（可选）
+# photutils>=1.5.0  # 光度测量工具（可选）

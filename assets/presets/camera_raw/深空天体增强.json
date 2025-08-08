@@ -1,0 +1,78 @@
+{
+  "name": "深空天体增强",
+  "basic_adjustments": {
+    "exposure": 0.5,
+    "highlights": -20,
+    "shadows": 30,
+    "whites": 10,
+    "blacks": -15,
+    "contrast": 25,
+    "clarity": 15,
+    "vibrance": 20,
+    "saturation": 10
+  },
+  "color_adjustments": {
+    "temperature": -200,
+    "tint": 5,
+    "hue": 0
+  },
+  "detail_adjustments": {
+    "sharpening": 30,
+    "noise_reduction": 25,
+    "color_noise_reduction": 20
+  },
+  "astro_adjustments": {
+    "star_enhancement": 40,
+    "background_smoothing": 15,
+    "light_pollution_removal": 30,
+    "nebula_enhancement": 35
+  },
+  "hsl_adjustments": {
+    "red": {
+      "hue": 0,
+      "saturation": 15,
+      "luminance": 5
+    },
+    "orange": {
+      "hue": 0,
+      "saturation": 10,
+      "luminance": 0
+    },
+    "yellow": {
+      "hue": 0,
+      "saturation": 5,
+      "luminance": 0
+    },
+    "green": {
+      "hue": 0,
+      "saturation": 0,
+      "luminance": 0
+    },
+    "aqua": {
+      "hue": 0,
+      "saturation": 20,
+      "luminance": 10
+    },
+    "blue": {
+      "hue": 0,
+      "saturation": 25,
+      "luminance": 15
+    },
+    "purple": {
+      "hue": 0,
+      "saturation": 20,
+      "luminance": 10
+    },
+    "magenta": {
+      "hue": 0,
+      "saturation": 15,
+      "luminance": 5
+    }
+  },
+  "tone_curve": {
+    "highlights": 245,
+    "lights": 200,
+    "darks": 55,
+    "shadows": 10
+  }
+}
